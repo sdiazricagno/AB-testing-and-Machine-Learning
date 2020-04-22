@@ -2,11 +2,15 @@
 
 This project is based on a series of articles I ve been reading and courses I ve been taking about testing. But I based specially on the article written by Matt Dancho of Business Science - A/B Testing with Machine Learning - A Step-by-Step(https://www.business-science.io/). I will try to develop the same exercise on Python and also provide more depth about A/B testing and why machine learning shouldn’t replace A/B testing, it should complement it.
 We are going to use the example published by Udacity, which are online experiments used to test potential improvements to a website or mobile app.
+
 Main topics
+
 •	The idea is to provide an initial understanding about A/B testing and their main benefits
+
 •	Understand how Machine Learning approach can complement A/B Testing 
 
-A/B testing
+
+### A/B testing
 A/B Testing is a method of comparing two versions of a product / feature against each other to determine which one performs better. AB testing is essentially an experiment where two or more variants are shown to users at random, and statistical analysis is used to determine which variation performs better for a given outcome.
 1)	Treatment Group (Group A) - This group is exposed to the new web page, popup form, etc.
 2)	Control Group (Group B) - This group experiences no change from the current setup.
