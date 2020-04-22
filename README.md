@@ -1,6 +1,6 @@
 # AB-testing-and-Machine-Learning
 
-This project is based on a series of articles I ve been reading and courses I ve been taking about testing. But I based specially on the article written by Matt Dancho of Business Science - A/B Testing with Machine Learning - A Step-by-Step. I will try to develop the same exercise on Python and also provide more depth about A/B testing and why machine learning shouldn’t replace A/B testing, it should complement it.
+This project is based on a series of articles I ve been reading and courses I ve been taking about testing. But I based specially on the article written by Matt Dancho of Business Science - A/B Testing with Machine Learning - A Step-by-Step(https://www.business-science.io/). I will try to develop the same exercise on Python and also provide more depth about A/B testing and why machine learning shouldn’t replace A/B testing, it should complement it.
 We are going to use the example published by Udacity, which are online experiments used to test potential improvements to a website or mobile app.
 Main topics
 •	The idea is to provide an initial understanding about A/B testing and their main benefits
