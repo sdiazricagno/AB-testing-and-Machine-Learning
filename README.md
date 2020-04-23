@@ -29,3 +29,12 @@ Once performed the A/B test you would have figured that the feature A is not sig
 Most machine learning algorithms have a method for calculating their feature importance — that is, how big a role did each feature play in predicting the target/dependent feature. This is very important because we can know exactly which features are contributing enrollments and determine if there is an impact on enrollments from the new “Setting Expectations” form.
 
 ## Applying Machine Learning
+
+### The data
+You can download the data:
+  Control (https://www.kaggle.com/tammyrotem/control-data)
+  Experiment (https://www.kaggle.com/tammyrotem/experiment-data)
+  
+ 
+  
+ 
